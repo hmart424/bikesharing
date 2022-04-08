@@ -8,5 +8,5 @@ This project is an analysis on the New York Citi Bike data, using data visualiza
 
 ## Results
 
-<img src="Desktop/ScreenShot2.pmg'>
+<img src="Desktop/ScreenShot2">
           
